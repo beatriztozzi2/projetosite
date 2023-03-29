@@ -1,3 +1,9 @@
-body{
+.cabeçalho {
     background-color: aliceblue  ;
+    color: black;
+    display: flex;
+}
+
+.cabeçalho-imagem{
+ width: 20%;
 }
